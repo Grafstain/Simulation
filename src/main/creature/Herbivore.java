@@ -1,4 +1,4 @@
-package creature;
+package main.creature;
 
 public class Herbivore extends Creature {
 

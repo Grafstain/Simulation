@@ -1,3 +1,5 @@
+package main;
+
 public class Coordinates {
     int x, y;
 

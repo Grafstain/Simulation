@@ -1,4 +1,4 @@
-package creature;
+package main.creature;
 
 public class Predator extends Creature {
     int attack;
