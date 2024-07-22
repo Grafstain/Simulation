@@ -1,4 +1,4 @@
 package main.entity;
 
-public class Rock {
+public class Rock extends Entity{
 }
