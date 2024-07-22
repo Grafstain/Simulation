@@ -1,5 +1,7 @@
 package main;
 
+import main.action.Action;
+
 import java.util.List;
 
 public class Simulation {
