@@ -1,3 +1,5 @@
+import entity.Entity;
+
 public abstract class Creature extends Entity {
     int hp;
     int speed;
