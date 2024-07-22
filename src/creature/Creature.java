@@ -1,3 +1,5 @@
+package creature;
+
 import entity.Entity;
 
 public abstract class Creature extends Entity {

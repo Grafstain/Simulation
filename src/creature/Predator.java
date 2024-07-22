@@ -1,3 +1,5 @@
+package creature;
+
 public class Predator extends Creature {
     int attack;
 
