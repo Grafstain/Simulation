@@ -6,4 +6,10 @@ public class Herbivore extends Creature {
     public void makeMove() {
 
     }
+
+
+    @Override
+    public String toString() {
+        return "H";
+    }
 }
