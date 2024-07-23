@@ -1,7 +1,7 @@
 package main;
 
-import main.creature.Herbivore;
-import main.creature.Predator;
+import main.entity.creature.Herbivore;
+import main.entity.creature.Predator;
 import main.entity.*;
 
 import java.util.Random;

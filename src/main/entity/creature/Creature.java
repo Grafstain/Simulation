@@ -1,4 +1,4 @@
-package main.creature;
+package main.entity.creature;
 
 import main.entity.Entity;
 
